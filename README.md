@@ -3,6 +3,7 @@ Create a **student** class in java.
 The student should have 3  private data members:
 * private String name
 * private int id
+
 * private double gpa
 
   It should have one constructor, that takes in all three pieces of data, and assigns them using the **this** operator;
